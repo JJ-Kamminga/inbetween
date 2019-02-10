@@ -35,7 +35,7 @@ DefaultContentLanguage = "nl"
     title = "In Between"
     dateFormat = "2 January 2006"
 
-    home = "NL Home"
+    home = "Home"
     logo = "images/logo.png"
     menufixed = false
 
@@ -74,8 +74,8 @@ DefaultContentLanguage = "nl"
     # Blog Section On Homepage
     [Languages.nl.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "FRANCAIS Blog."
+        topTitle= "Zien en gezien worden."
+        title   = "in-between blog"
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
     # Contact Section
@@ -111,7 +111,7 @@ DefaultContentLanguage = "nl"
     title = "ENGLISH Example site multi-language"
     dateFormat = "January 2, 2006"
 
-    home = "EN Home"
+    home = "Home"
     logo = "images/logo.png"
     menufixed = false
 
@@ -150,9 +150,9 @@ DefaultContentLanguage = "nl"
     # Blog Section On Homepage
     [Languages.en.params.blog]
         enable  = true
-        topTitle= "OUR UNTOLD STORY"
-        title   = "ENGLISH Blog."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        topTitle= "See and be seen."
+        title   = "in-between blog"
+        subtitle= "Unfortunately, at this time the blog is only in Dutch."
 
     # Contact Section
     [Languages.en.params.contact]
