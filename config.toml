@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://serene-minsky-5f868d.netlify.com/"
 languageCode = "nl-nl"
 title = "In Between"
 theme = "navigator-hugo"
