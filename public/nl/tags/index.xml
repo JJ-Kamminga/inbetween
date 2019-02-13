@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on In Between</title>
+    <link>https://serene-minsky-5f868d.netlify.com/nl/tags/</link>
+    <description>Recent content in Tags on In Between</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    
+	<atom:link href="https://serene-minsky-5f868d.netlify.com/nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
