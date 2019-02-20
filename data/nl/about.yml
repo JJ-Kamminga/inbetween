@@ -1,0 +1,12 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/about-1.png
+    title : Over de bedenker
+    description : >
+     Marchien is initiatiefnemer van in-between. Ze is werkzaam bij Hogeschool Windesheim Zwolle. Ze is teamleider, docent, studentbegeleider en supervisor. Missionaire presentie, diaconaat en sociaal ondernemen zijn haar aandachtsgebieden. 
+  - positionRight : true
+    image : images/about/about-2.jpg
+    title : Betekenisvolle waarden
+    description : >
+      Samen werken aan betekenisvol partnerschap voor een menselijke samenleving  is haar focus. Als theoloog is ze daarbij geboeid door betekenisvolle waarden en inspiratie van mensen. 

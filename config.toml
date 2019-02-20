@@ -45,14 +45,14 @@ DefaultContentLanguage = "nl"
     footerAboutTitle = "Nederlandse beschrijving titel"
     footerSubscribeTitle = "Abonneer je op de nieuwsbrief"
 
-  # Slider Section
-  [Languages.nl.params.slider]
-    enable = true
-    title = "Creating places of humanity"
-    subtitle = "is de uitnodiging mee te doen aan het leefbaar maken van plaatsen waar mensen samenkomen, wonen, samen optrekken. Compassie die verbindt gestalte geven in nieuwe vormen van communitair leven."
-    bgImage = "images/wooden-bridge-medium.jpg"
-    btnText = "Lees meer"
-    url = "/about"
+    # Slider Section
+    [Languages.nl.params.slider]
+        enable = true
+        title = "Creating places of humanity"
+        subtitle = "is de uitnodiging mee te doen aan het leefbaar maken van plaatsen waar mensen samenkomen, wonen, samen optrekken. Compassie die verbindt gestalte geven in nieuwe vormen van communitair leven."
+        bgImage = "images/wooden-bridge-medium.jpg"
+        btnText = "Lees meer"
+        url = "nl/about"
 
     # Hero Area Section
     [Languages.nl.params.hero]
@@ -68,8 +68,8 @@ DefaultContentLanguage = "nl"
     # About 2 Section
     [Languages.nl.params.aboutSm]
         enable  = true
-        title   = "FRANCAIS We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        title   = "Tussenruimte voor ontmoeten, samen leven en samen leren."
+        description = "Verbinding tussen mensen, groepen en organisaties met oog op medemenselijkheid, compassie. Mensen in verschillende werkkringen en contexten ontmoeten elkaar in initiatief dat context overstijgt, bouwen bruggen die tot nieuwe stappen leiden."
 
     # Blog Section On Homepage
     [Languages.nl.params.blog]
@@ -128,7 +128,7 @@ DefaultContentLanguage = "nl"
     subtitle = "is de uitnodiging mee te doen aan het leefbaar maken van plaatsen waar mensen samenkomen, wonen, samen optrekken. Compassie die verbindt gestalte geven in nieuwe vormen van communitair leven."
     bgImage = "images/wooden-bridge-medium.jpg"
     btnText = "Keep reading"
-    url = "#"
+    url = "en/about"
 
     # Hero Area Section
     [Languages.en.params.hero]
@@ -144,7 +144,7 @@ DefaultContentLanguage = "nl"
     # About 2 Section
     [Languages.en.params.aboutSm]
         enable  = true
-        title   = "ENGLISH We have explored the digital landscape with passion for a long time"
+        title   = "Space to live and learn together."
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
     # Blog Section On Homepage
