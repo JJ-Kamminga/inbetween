@@ -124,10 +124,10 @@ DefaultContentLanguage = "nl"
     #  Slider Section
     [Languages.en.params.slider]
     enable = true
-    title = "A digital marketing &amp; design agency"
-    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+    title = "Creating places of humanity"
+    subtitle = "is de uitnodiging mee te doen aan het leefbaar maken van plaatsen waar mensen samenkomen, wonen, samen optrekken. Compassie die verbindt gestalte geven in nieuwe vormen van communitair leven."
     bgImage = "images/wooden-bridge-medium.jpg"
-    btnText = "Discover Our Projects"
+    btnText = "Keep reading"
     url = "#"
 
     # Hero Area Section
