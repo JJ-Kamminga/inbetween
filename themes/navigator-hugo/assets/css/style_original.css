@@ -1117,6 +1117,10 @@ a:focus, a:hover {
   padding: 30px 20px;
 }
 
+section.services {
+  background: #1F2532;
+}
+
 @media (max-width: 480px) {
   .services .service-block {
     padding: 15px;
@@ -1129,20 +1133,20 @@ a:focus, a:hover {
 
 .services .service-block i {
   font-size: 40px;
-  color: #f0326b;
-  background-image: linear-gradient(100deg, #87d1ff, #36bcc6);
+  background-color: #21D6BF;
+  background-image: linear-gradient(300deg, #87d1ff, #36bcc6);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .services .service-block h3 {
-  color: #333;
+  color: white;
   font-size: 18px;
 }
 
 .services .service-block p {
-  color: #777;
+  color: lightgray;
 }
 
 /*=================================================================
@@ -1391,7 +1395,7 @@ a:focus, a:hover {
   Testimonial section
 ==================================================================*/
 .testimonial {
-  background: #f0326b;
+  background: #52cde1;
   position: relative;
 }
 

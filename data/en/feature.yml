@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
+  - icon  : tf-ion-android-contacts
     title : ENGLISH WordPress Theme
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-alarm-outline
+  - icon  : tf-ion-chatbubbles
     title : Responsive Design
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-book-outline
+  - icon  : tf-ion-android-restaurant
     title : Media & Advertisement
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.

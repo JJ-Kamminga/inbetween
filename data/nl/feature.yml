@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : FRANCAIS WordPress Theme
+  - icon  : tf-ion-android-contacts
+    title : Verbindingen
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Verbinding tussen mensen, groepen, organisaties, met oog op medemenselijkheid, compassie. De relaties die er zijn benutten om te verbinden, initiatief te nemen en stappen te zetten. Samen kom je verder!
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : FRANCAIS Responsive Design
+  - icon  : tf-ion-chatbubbles
+    title : Kleine activiteiten
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Kleine activiteiten, initiatieven die ontmoeting realiseren tussen mensen die elkaar niet zomaar tegenkomen, die elkaars ideeën en gedachten delen en zich met elkaar verbinden.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-android-restaurant
+    title : In-between dinner
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Rond thema's ontmoeten verschillende mensen elkaar, delen elkaars werk-ervaringen en ideeën. Verdiepen en vernieuwen gedachten, werkwijzen en inspireren elkaar, bijdragen aan "places of humanity".
