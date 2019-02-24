@@ -1,0 +1,15 @@
+{{ if .Site.Params.contact.enable }}
+{{ "<!-- Start Contact Us -->" | safeHTML }}
+<section class="form-success section bg-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="title text-center">
+                    <p>{{ with .Site.Params.contact.confirmationMessage }}{{.}} {{ end }} </p><br>
+                    <a class="btn btn-main btn-solid-border" href="{{ .Site.BaseURL }}">{{ with .Site.Params.home }}{{ . }}{{ end }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

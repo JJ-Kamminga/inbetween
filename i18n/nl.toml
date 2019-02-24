@@ -9,6 +9,9 @@ other = "Blog"
 [contact]
 other = "Contact"
 
+[formsuccess]
+other = "Form success"
+
 [graphicdesign]
 other = "FR Graphic Design"
 [webdesign]
