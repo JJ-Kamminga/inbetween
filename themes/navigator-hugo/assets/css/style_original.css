@@ -776,12 +776,14 @@ a:focus, a:hover {
 .call-to-action-2 .btn-main, .call-to-action-2 .btn-main-sm {
   margin-top: 20px;
 }
-
+ 
 /*=================================================================
   Contact
   ==================================================================*/
 .contact-form {
   margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media (max-width: 768px) {
@@ -791,7 +793,7 @@ a:focus, a:hover {
 }
 
 .contact-form .form-control {
-  background-color: transparent;
+  background-color: white;
   border: 1px solid #dedede;
   box-shadow: none;
   height: 45px !important;
@@ -805,7 +807,7 @@ a:focus, a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-  border-color: #f0326b;
+  border-color: #87d1ff;
 }
 
 .contact-form #contact-submit {
@@ -813,7 +815,7 @@ a:focus, a:hover {
   padding: 15px 0;
   width: 100%;
   margin: 0;
-  background: #f0326b;
+  background-image: linear-gradient(300deg, #87d1ff, #36bcc6);
   color: #fff;
   border-radius: 0;
   cursor: pointer;
@@ -895,6 +897,7 @@ a:focus, a:hover {
   font-size: 50px;
   margin-bottom: 20px;
 }
+
 
 /*=================================================================
   Item counter section

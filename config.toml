@@ -81,8 +81,8 @@ DefaultContentLanguage = "nl"
     # Contact Section
     [Languages.nl.params.contact]
         enable  = true
-        topTitle= "DROP US A NOTE"
-        title   = "FRANCAIS Contact Us."
+        topTitle= "Hier een tekst"
+        title   = "Neem contact op"
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
         address = "14/05, Stockhome <br> Victori Palace , United States"
         phone   = "(03) 9283 2617"
@@ -157,8 +157,8 @@ DefaultContentLanguage = "nl"
     # Contact Section
     [Languages.en.params.contact]
         enable  = true
-        topTitle= "DROP US A NOTE"
-        title   = "ENGLISH Contact Us."
+        topTitle= "Get in touch"
+        title   = "Contact Us"
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
         address = "14/05, Stockhome <br> Victori Palace , United States"
         phone   = "(03) 9283 2617"

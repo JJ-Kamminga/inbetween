@@ -15,21 +15,21 @@
             </div>
         </div>
         <div class="row">
-            {{ "<!-- Contact Details -->" | safeHTML }}
-            <div class="col-12 col-md-6">
+            {{ "<!-- Map -->" | safeHTML }}
+            <!--<div class="col-12 col-md-6">
                 <div class="map">
                     <div id="map" data-lat="{{ .Site.Params.contact.mapLatitude }}" data-long="{{ .Site.Params.contact.mapLongitude }}" data-marker="{{ .Site.Params.contact.mapMarker | absURL }}"></div>
                 </div>
-            </div>
+            </div>-->
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" method="post" action="sendmail.php" role="form">
+                <form id="contact-form" name="contact-form" data-netlify="true" data-netlify-recaptcha="true" method="post" action="sendmail.php" role="form">
                     <div class="form-group">
-                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+                        <input type="text" placeholder="Name" class="form-control" name="name" id="name">
                     </div>
 
                     <div class="form-group">
-                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+                        <input type="email" placeholder="Email" class="form-control" name="email" id="email">
                     </div>
 
                     <div class="form-group">
@@ -38,6 +38,9 @@
 
                     <div class="form-group">
                         <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
+                    </div>
+
+                    <div class="recaptcha" data-netlify-recaptcha="true">
                     </div>
 
                     <div id="mail-success" class="success">
@@ -58,14 +61,14 @@
             <div class="col-12 col-md-4">
                 <div class="address-block contact-meta-block">
                     <i class="tf-ion-android-pin"></i>
-                    <h4>Our Location</h4>
+                    <h4>Locatie</h4>
                     {{ with .Site.Params.contact.address }}<p>{{ . | safeHTML }}</p>{{ end }}
                 </div>
             </div>
             <div class="col-12 col-md-4">
                 <div class="phone-block contact-meta-block">
                     <i class="tf-ion-ios-telephone"></i>
-                    <h4>Call Us</h4>
+                    <h4>Telefoon</h4>
                     <p>
                          {{ with .Site.Params.contact.phone }}Office: {{.}} {{ end }} 
                         <br> {{ with .Site.Params.contact.fax }} Fax: {{ . }} {{ end }}
@@ -75,7 +78,7 @@
             <div class="col-12 col-md-4">
                 <div class="social-icons-block contact-meta-block">
                     <i class="tf-ion-ios-contact"></i>
-                    <h4>We are social</h4>
+                    <h4>Social media</h4>
                     <ul class="list-inline social-icon">
                         {{ with .Site.Params.contact.facebook }}
                         <li class="list-inline-item">
