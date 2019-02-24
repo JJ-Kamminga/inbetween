@@ -27,7 +27,7 @@
                 <a href="{{ .URL | absLangURL }}formsuccess">Link</a>
             </div>-->
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" name="contact-form" data-netlify="true" data-netlify-recaptcha="true" method="post" role="form">
+                <form id="contact-form" name="contact-form" data-netlify="true" method="post" role="form">
                     <div class="form-group">
                         <input type="text" placeholder="Name" class="form-control" name="name" id="name" required>
                     </div>
@@ -43,8 +43,7 @@
                     <div class="form-group">
                         <textarea rows="6" placeholder="Message" class="form-control" name="message" id="message" required></textarea>
                     </div>
-                    <div class="recaptcha" data-netlify-recaptcha="true">
-                    </div>
+                    
                     <div id="cf-submit">
                         <button type="submit" id="contact-submit" class="btn btn-transparent">Submit</button>
                     </div>
