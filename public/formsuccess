@@ -1,0 +1,27 @@
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Navigator Hugo Template">
+<meta name="author" content="Themefisher.com">
+<meta name="generator" content="Hugo 0.53">
+
+<title>In Between</title>
+
+<!-- Mobile Specific Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="https://serene-minsky-5f868d.netlify.com/images/favicon.ico">
+
+<!-- Stylesheets -->
+<!-- Themefisher Icon font -->
+<link rel="stylesheet" href="https://serene-minsky-5f868d.netlify.com/plugins/themefisher-font/style.css">
+<!-- bootstrap.min css -->
+<link rel="stylesheet" href="https://serene-minsky-5f868d.netlify.com/plugins/bootstrap/dist/css/bootstrap.min.css">
+<!-- Main Stylesheet -->
+
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+Thank you.
+</body>

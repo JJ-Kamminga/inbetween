@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://serene-minsky-5f868d.netlify.com/en/formsuccess/</loc>
+    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://serene-minsky-5f868d.netlify.com/nl/formsuccess/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serene-minsky-5f868d.netlify.com/en/formsuccess/"
+                />
+  </url>
+  
+  <url>
     <loc>https://serene-minsky-5f868d.netlify.com/en/blog/blog-photos-on-phone/</loc>
     <lastmod>2019-02-09T15:23:47+01:00</lastmod>
     <xhtml:link

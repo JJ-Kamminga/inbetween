@@ -52,42 +52,6 @@ a:focus, a:hover {
   color: #f0326b;
 }
 
-.btn-main, .btn-main-sm {
-  background-color: #21D6BF;
-  background-image: linear-gradient(100deg, #f9643d, #fe2a77);
-  color: #fff;
-  display: inline-block;
-  font-size: 14px;
-  letter-spacing: 1px;
-  padding: 10px 40px;
-  text-transform: uppercase;
-  border: 1px solid transparent;
-  border-radius: 2px;
-}
-
-.btn-main:hover, .btn-main-sm:hover {
-  color: #fff;
-}
-
-.btn-main-sm {
-  padding: 8px 20px;
-  font-size: 12px;
-}
-
-.btn-transparent {
-  color: #fff;
-  border: 1px solid #fff;
-  display: inline-block;
-  font-size: 13px;
-  letter-spacing: 1px;
-  padding: 10px 40px;
-  text-transform: uppercase;
-}
-
-.btn-transparent:hover {
-  color: #fff;
-}
-
 .mt-10 {
   margin-top: 10px;
 }
@@ -386,7 +350,7 @@ a:focus, a:hover {
 }
 
 .gradient, .title .border, .service-2 .service-item i {
-  background-image: linear-gradient(100deg, #f9643d, #fe2a77);
+  background-image: linear-gradient(100deg, #87d1ff, #36bcc6);
 }
 
 .header-bradcrumb {
@@ -469,6 +433,7 @@ a:focus, a:hover {
 .navigation {
   transition: .3s all;
   background: #1f2532;
+  border-bottom: 1px solid black;
 }
 
 .navigation .navbar-nav > li.active a {
@@ -497,7 +462,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: #f0326b;
+  color: #b9f3ff;
 }
 
 .navigation .navbar-toggler {
@@ -759,8 +724,8 @@ a:focus, a:hover {
   width: 12%;
   height: 3px;
   background-color: #ffa535;
-  background-image: linear-gradient(100deg, #f9643d, #fe2a77);
-  background-image: linear-gradient(100deg, #f9643d, #fe2a77);
+  background-image: linear-gradient(100deg, #87d1ff, #36bcc6);
+  background-image: linear-gradient(100deg, #87d1ff, #36bcc6);
 }
 
 @media (max-width: 768px) {
@@ -811,12 +776,14 @@ a:focus, a:hover {
 .call-to-action-2 .btn-main, .call-to-action-2 .btn-main-sm {
   margin-top: 20px;
 }
-
+ 
 /*=================================================================
   Contact
   ==================================================================*/
 .contact-form {
   margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media (max-width: 768px) {
@@ -826,7 +793,7 @@ a:focus, a:hover {
 }
 
 .contact-form .form-control {
-  background-color: transparent;
+  background-color: white;
   border: 1px solid #dedede;
   box-shadow: none;
   height: 45px !important;
@@ -840,7 +807,7 @@ a:focus, a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-  border-color: #f0326b;
+  border-color: #87d1ff;
 }
 
 .contact-form #contact-submit {
@@ -848,7 +815,7 @@ a:focus, a:hover {
   padding: 15px 0;
   width: 100%;
   margin: 0;
-  background: #f0326b;
+  background-image: linear-gradient(300deg, #87d1ff, #36bcc6);
   color: #fff;
   border-radius: 0;
   cursor: pointer;
@@ -930,6 +897,7 @@ a:focus, a:hover {
   font-size: 50px;
   margin-bottom: 20px;
 }
+
 
 /*=================================================================
   Item counter section
@@ -1152,6 +1120,10 @@ a:focus, a:hover {
   padding: 30px 20px;
 }
 
+section.services {
+  background: #1F2532;
+}
+
 @media (max-width: 480px) {
   .services .service-block {
     padding: 15px;
@@ -1164,20 +1136,20 @@ a:focus, a:hover {
 
 .services .service-block i {
   font-size: 40px;
-  color: #f0326b;
-  background: linear-gradient(100deg, #f9643d, #fe2a77);
+  background-color: #21D6BF;
+  background-image: linear-gradient(300deg, #87d1ff, #36bcc6);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .services .service-block h3 {
-  color: #333;
+  color: white;
   font-size: 18px;
 }
 
 .services .service-block p {
-  color: #777;
+  color: lightgray;
 }
 
 /*=================================================================
@@ -1402,7 +1374,7 @@ a:focus, a:hover {
 
 .team-member .member-content ul li a i {
   color: #f0326b;
-  background: linear-gradient(100deg, #f9643d, #fe2a77);
+  background-image: linear-gradient(100deg, #87d1ff, #36bcc6);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1426,7 +1398,7 @@ a:focus, a:hover {
   Testimonial section
 ==================================================================*/
 .testimonial {
-  background: #f0326b;
+  background: #52cde1;
   position: relative;
 }
 
@@ -1785,6 +1757,7 @@ a:focus, a:hover {
 
 /*# sourceMappingURL=maps/style.css.map */
 /* modification empruntée à https://github.com/themefisher/timer-hugo/blob/master/static/css/style.css */
+
 .top-bar {
     position: fixed;
     top: 0;
@@ -1804,9 +1777,7 @@ a:focus, a:hover {
     box-shadow: none;
   }
 
-
 /* Slider area taken from airspace-hugo theme*/
-
 
 #slider .container {
   max-width: 100%;
@@ -1895,3 +1866,97 @@ a:focus, a:hover {
  }
 
 /* End of Slider area */
+
+/* Drapeaux and Flag styling */
+
+
+#drapeaux {
+  width: 95px;
+  height: 100%;
+  max-height: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#drapeaux img {
+  display: inline-block;
+  border: 1px solid white;
+  margin-right: 3%;
+  margin-left: 1%;
+  max-width: 25%;
+  max-height: 80%;
+}
+
+#drapeaux a {
+  text-transform: uppercase;
+  font-size: 13px;
+  color: white;
+}
+
+@media (max-width: 480px) {
+  #drapeaux {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+}
+
+@media (max-width: 250px) {
+  #drapeaux {
+    display: none;
+  }
+}
+
+/* End of Drapeaux and Flag styling */
+
+/* Logo text styling */
+
+.site-logo {
+  color: white;
+  font-size: 1.8rem;
+}
+
+/* End of logo text styling */
+
+/* Button styling */
+
+
+.btn-main, .btn-main-sm {
+  background-color: #21D6BF;
+  background-image: linear-gradient(300deg, #87d1ff, #36bcc6);
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 10px 40px;
+  text-transform: uppercase;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.btn-main:hover, .btn-main-sm:hover {
+  color: black;
+}
+
+.btn-main-sm {
+  padding: 8px 20px;
+  font-size: 12px;
+}
+
+.btn-transparent {
+  color: #fff;
+  border: 1px solid #fff;
+  display: inline-block;
+  font-size: 13px;
+  letter-spacing: 1px;
+  padding: 10px 40px;
+  text-transform: uppercase;
+}
+
+.btn-transparent:hover {
+  color: #fff;
+}
+
+/* End of button styling */

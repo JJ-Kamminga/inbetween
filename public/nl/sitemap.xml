@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://serene-minsky-5f868d.netlify.com/nl/formsuccess/</loc>
+    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serene-minsky-5f868d.netlify.com/en/formsuccess/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://serene-minsky-5f868d.netlify.com/nl/formsuccess/"
+                />
+  </url>
+  
+  <url>
     <loc>https://serene-minsky-5f868d.netlify.com/nl/blog/blog-photos-on-phone/</loc>
     <lastmod>2019-02-09T15:23:47+01:00</lastmod>
     <xhtml:link
@@ -73,29 +88,53 @@
   </url>
   
   <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/contact/_index.fr/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
+    <loc>https://serene-minsky-5f868d.netlify.com/nl/contact/</loc>
+    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serene-minsky-5f868d.netlify.com/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://serene-minsky-5f868d.netlify.com/nl/contact/"
+                />
   </url>
   
   <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/portfolio/_index.fr/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
+    <loc>https://serene-minsky-5f868d.netlify.com/nl/portfolio/</loc>
+    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serene-minsky-5f868d.netlify.com/en/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://serene-minsky-5f868d.netlify.com/nl/portfolio/"
+                />
   </url>
   
   <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/service/_index.fr/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/about/_index.fr/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
+    <loc>https://serene-minsky-5f868d.netlify.com/nl/service/</loc>
+    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serene-minsky-5f868d.netlify.com/en/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://serene-minsky-5f868d.netlify.com/nl/service/"
+                />
   </url>
   
   <url>
     <loc>https://serene-minsky-5f868d.netlify.com/nl/about/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,22 +163,6 @@
   </url>
   
   <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/contact/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://serene-minsky-5f868d.netlify.com/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://serene-minsky-5f868d.netlify.com/nl/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://serene-minsky-5f868d.netlify.com/nl/</loc>
     <lastmod>2019-02-09T15:23:47+01:00</lastmod>
     <priority>0</priority>
@@ -152,38 +175,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://serene-minsky-5f868d.netlify.com/nl/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/portfolio/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://serene-minsky-5f868d.netlify.com/en/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://serene-minsky-5f868d.netlify.com/nl/portfolio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/service/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://serene-minsky-5f868d.netlify.com/en/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://serene-minsky-5f868d.netlify.com/nl/service/"
                 />
   </url>
   
