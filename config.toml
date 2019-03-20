@@ -95,7 +95,6 @@ DefaultContentLanguage = "nl"
         mapLatitude = "51.507351"
         mapLongitude= "-0.127758"
         mapMarker   = "images/marker.png"
-        confirmationMessage = "Uw bericht is verzonden. Er wordt spoedig contact met u opgenomen."
 
     # Call to Action Section on About Page
     [Languages.nl.params.cta]
@@ -172,7 +171,6 @@ DefaultContentLanguage = "nl"
         mapLatitude = "51.507351"
         mapLongitude= "-0.127758"
         mapMarker   = "images/marker.png"
-        confirmationMessage = "Your message has been sent. We will get in touch with you quickly."
 
     # Call to Action Section on About Page
     [Languages.en.params.cta]
