@@ -189,10 +189,10 @@
 			$('#contact-submit').attr({
 				'disabled': 'false',
 				'value': 'Sending...'
-			});		}
-	});
-
+			});		
+		}
 })(jQuery);
+	       
 //removed the sendmail.php because form is set up through Netlify
 
 window.marker = null;
