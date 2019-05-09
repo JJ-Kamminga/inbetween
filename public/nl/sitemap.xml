@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/formsuccess/</loc>
-    <lastmod>2019-02-24T11:59:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://serene-minsky-5f868d.netlify.com/en/formsuccess/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://serene-minsky-5f868d.netlify.com/nl/formsuccess/"
-                />
-  </url>
-  
-  <url>
     <loc>https://serene-minsky-5f868d.netlify.com/nl/blog/blog-photos-on-phone/</loc>
     <lastmod>2019-02-09T15:23:47+01:00</lastmod>
     <xhtml:link
@@ -29,6 +14,22 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://serene-minsky-5f868d.netlify.com/nl/blog/blog-photos-on-phone/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://serene-minsky-5f868d.netlify.com/nl/</loc>
+    <lastmod>2019-02-10T14:09:31+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://serene-minsky-5f868d.netlify.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://serene-minsky-5f868d.netlify.com/nl/"
                 />
   </url>
   
@@ -159,22 +160,6 @@
                 rel="alternate"
                 hreflang="nl"
                 href="https://serene-minsky-5f868d.netlify.com/nl/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://serene-minsky-5f868d.netlify.com/nl/</loc>
-    <lastmod>2019-02-09T15:23:47+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://serene-minsky-5f868d.netlify.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://serene-minsky-5f868d.netlify.com/nl/"
                 />
   </url>
   
