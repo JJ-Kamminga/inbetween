@@ -76,14 +76,14 @@ DefaultContentLanguage = "nl"
         enable  = true
         topTitle= "Zien en gezien worden."
         title   = "in-between blog"
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        subtitle= "Een plek voor ideeën, inspiratie en andere verhalen."
 
     # Contact Section
     [Languages.nl.params.contact]
         enable  = true
-        topTitle= "Hier een tekst"
+        topTitle= ""
         title   = "Neem contact op"
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        subtitle= "Vul het formulier in om een bericht achter te laten."
         address = "14/05, Stockhome <br> Victori Palace , United States"
         phone   = "(03) 9283 2617"
         fax     = "+61 3827 3590"
@@ -116,10 +116,10 @@ DefaultContentLanguage = "nl"
     menufixed = false
 
     footerDescription = "ENGLISH Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-    footerServiceTitle = "ENGLISH Service"
-    footerQuicklinkTitle = "ENGLISH Quicklinks"
-    footerAboutTitle = "ENGLISH About"
-    footerSubscribeTitle = "ENGLISH Subscribe"
+    footerServiceTitle = "Service"
+    footerQuicklinkTitle = "Quicklinks"
+    footerAboutTitle = "About"
+    footerSubscribeTitle = "Subscribe"
 
     #  Slider Section
     [Languages.en.params.slider]
@@ -152,14 +152,14 @@ DefaultContentLanguage = "nl"
         enable  = true
         topTitle= "See and be seen."
         title   = "in-between blog"
-        subtitle= "Unfortunately, at this time the blog is only in Dutch."
+        subtitle= "Unfortunately, at this time the blog is only in Dutch. Please switch to the Dutch version of the page to view it."
 
     # Contact Section
     [Languages.en.params.contact]
         enable  = true
-        topTitle= "Get in touch"
-        title   = "Contact Us"
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+        topTitle= ""
+        title   = "Contact Inbetween"
+        subtitle= "Fill in the form to leave a message."
         address = "14/05, Stockhome <br> Victori Palace , United States"
         phone   = "(03) 9283 2617"
         fax     = "+61 3827 3590"
@@ -176,7 +176,7 @@ DefaultContentLanguage = "nl"
     [Languages.en.params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "ENGLISH Let's Create Something Together"
+        title   = "Let's Work Together"
         subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
         btnText = "Contact Us"
 
@@ -190,8 +190,8 @@ DefaultContentLanguage = "nl"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "service"
-        url     = "service"
+        name    = "mission"
+        url     = "mission"
         weight  = 3
     [[menu.nav]]
         name    = "portfolio"
@@ -207,17 +207,17 @@ DefaultContentLanguage = "nl"
         weight  = 6
 
     # Footer Service Menu
-    [[menu.service]]
+    [[menu.mission]]
         name    = "graphicdesign"
-        url     = "service"
+        url     = "mission"
         weight  = 1
     [[menu.service]]
         name    = "webdesign"
-        url     = "service"
+        url     = "mission"
         weight  = 2
     [[menu.service]]
         name    = "webdevelopment"
-        url     = "service"
+        url     = "mission"
         weight  = 3
 
     # Footer Quick links Menu

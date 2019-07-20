@@ -1,28 +1,28 @@
 enable    : true
-topTitle  : A LIST OF SERVICES
-title     : ENGLISH Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : Mission
+title     : The Inbetween Mission
+subtitle  : English subtitle!
 item      :
   - icon  : tf-ion-ios-copy-outline
-    title : ENGLISH Branding
+    title : Activities
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : A-one
+      - name : And-two
+      - name : And-chicka
+      - name : Booma-chick
 
   - icon  : tf-ion-ios-alarm-outline
-    title : ENGLISH Branding
+    title : Branding
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : A-one
+      - name : And-two
+      - name : And-chicka
+      - name : Booma-chick
 
   - icon  : tf-ion-ios-book-outline
     title : ENGLISH IOS App Development
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : A-one
+      - name : And-two
+      - name : And-chicka
+      - name : Booma-chick

@@ -1,28 +1,28 @@
 enable    : true
-topTitle  : FRANCAIS A LIST OF SERVICES
-title     : FRANCAIS Our Service.
-subtitle  : FRANCAIS Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : Missie
+title     : De Inbetween missie
+subtitle  : Nederlandse ondertitel!
 item      :
   - icon  : tf-ion-ios-copy-outline
-    title : FRANCAIS Branding
+    title : Activiteiten
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : Eentje
+      - name : Twee
+      - name : Drie
+      - name : Vier
 
   - icon  : tf-ion-ios-alarm-outline
-    title : FRANCAIS Branding
+    title : Kennisdeling
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : Eentje
+      - name : Twee
+      - name : Drie
+      - name : Vier
 
   - icon  : tf-ion-ios-book-outline
-    title : FRANCAIS IOS App Development
+    title : Samenwerking
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Eentje
+      - name : Twee
+      - name : Drie
+      - name : Vier
